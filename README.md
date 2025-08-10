@@ -10,4 +10,9 @@ Finally, import the avatar into the [Open Avatar Chat platform](https://github.c
 
 This project uses Streamlit to build a user-friendly, aesthetically pleasing GUI that links the entire process while ensuring adequate legality checks.
 
+Workflow
 ![Workflow](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/workflow.png)
+
+## GUI examples
+
+
