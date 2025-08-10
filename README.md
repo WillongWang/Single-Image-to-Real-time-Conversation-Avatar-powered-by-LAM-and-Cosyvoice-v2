@@ -8,10 +8,12 @@ The second step involves using the official [LAM (Large Avatar Model for One-sho
 
 Finally, import the avatar into the [Open Avatar Chat platform](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) and you can interact with your digital avatar in real time.
 
-This project uses Streamlit to build a user-friendly, aesthetically pleasing GUI that links the entire process while ensuring adequate legality checks.
+This project uses Streamlit to build a user-friendly, aesthetically pleasing GUI that links the entire process while ensuring adequate legality checks. 
 
 Workflow  
 ![Workflow](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/workflow.png)
+
+[Complete report](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/acl.pdf)
 
 ## How to run
 
@@ -25,7 +27,10 @@ streamlit run app.py
 
 ## Demo
 
-
+<div align="center">
+  <video controls src="https://github.com/user-attachments/assets/98f66655-e1c1-40a9-ab58-bdd49dafedda" width="80%">
+  </video>
+</div>
 
 ## GUI examples
 
