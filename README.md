@@ -23,6 +23,10 @@ You'd better dubug and run the code in VSCode via Remote - SSH.
 streamlit run app.py
 ```
 
+## Demo
+
+
+
 ## GUI examples
 
 ### Step 1: Bring Your Image to Life  
