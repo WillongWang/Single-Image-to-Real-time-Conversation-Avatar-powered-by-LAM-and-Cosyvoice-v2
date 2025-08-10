@@ -13,15 +13,33 @@ This project uses Streamlit to build a user-friendly, aesthetically pleasing GUI
 Workflow  
 ![Workflow](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/workflow.png)
 
+## How to run
+
 ## GUI examples
 
-### Step 1  
+### Step 1: Bring Your Image to Life  
 ![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/1.png)  
 LoRA in Stable Diffusion web UI  
 ![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/2.png)  
-![]()
 
+### Step 2: Download the Avatar Model  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/3.png)  
+LAM platform  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/4.png)
 
+### Step 3: Configure and Launch  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/5.png)  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/6.png)  
+Open Avatar Chat platform  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/pics/7.png)
+
+### Real-time Live Avatar  
+Mandarin version  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/mandarin.png)  
+English  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/en.png)  
+Cantonese  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/cantonese.png)
 
 
 
