@@ -1,2 +1,7 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 g.png filter=lfs diff=lfs merge=lfs -text
+cantonese.png filter=lfs diff=lfs merge=lfs -text
+en.png filter=lfs diff=lfs merge=lfs -text
+mandarin.png filter=lfs diff=lfs merge=lfs -text
+miyue.png filter=lfs diff=lfs merge=lfs -text
+workflow.png filter=lfs diff=lfs merge=lfs -text
