@@ -15,6 +15,14 @@ Workflow
 
 ## How to run
 
+Deploy the image by [@十字鱼](https://www.compshare.cn/images/63f27744-54ee-4ea2-a536-a72075f4b28e) and upload the `app.py` to the `/workspace`.  
+Remember to configure the firewall:  
+![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/g.png)  
+You'd better dubug and run the code in VSCode via Remote - SSH.  
+```
+streamlit run app.py
+```
+
 ## GUI examples
 
 ### Step 1: Bring Your Image to Life  
