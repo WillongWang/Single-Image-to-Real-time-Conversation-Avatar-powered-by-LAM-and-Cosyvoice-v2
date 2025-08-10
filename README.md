@@ -15,7 +15,7 @@ Workflow
 
 ## How to run
 
-Deploy the image by [@十字鱼](https://www.compshare.cn/images/63f27744-54ee-4ea2-a536-a72075f4b28e) and upload the `app.py` to the `/workspace`.  
+Deploy the image by [@十字鱼](https://www.compshare.cn/images/63f27744-54ee-4ea2-a536-a72075f4b28e), upload the `app.py` and `glut.yaml` to the `/workspace` and follow the image configuration steps.  
 Remember to configure the firewall:  
 ![](https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/g.png)  
 You'd better dubug and run the code in VSCode via Remote - SSH.  
