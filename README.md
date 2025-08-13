@@ -28,7 +28,7 @@ streamlit run app.py
 ## Demo
 
 <div align="center">
-  <video controls src="https://github.com/user-attachments/assets/98f66655-e1c1-40a9-ab58-bdd49dafedda" width="80%">
+  <video controls src="https://github.com/WillongWang/Single-Image-to-Real-time-Conversation-Avatar-powered-by-LAM-and-Cosyvoice-v2/blob/main/workflow.mov" width="80%">
   </video>
 </div>
 
